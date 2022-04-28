@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
 * 👨‍💻 All of my projects are available at [My Portfolio]
-* 📫 How to reach me 
+* 📫 How to reach me
 - ⚡ Fun fact: **Don't stop until you are proud**.
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
