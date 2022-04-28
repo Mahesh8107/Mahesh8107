@@ -9,8 +9,6 @@
 
 <br />
 
-
- <br>
 ## About Me
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
