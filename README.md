@@ -25,7 +25,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 * 👨‍💻 All of my projects are available at [My Portfolio]
 * 📫 How to reach me maheshjangid7568@gmail.com
 - ⚡ Fun fact: **Don't stop until you are proud**.
-- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
+- - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maheshjangid7568@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear="both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
@@ -91,7 +91,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 </p>
 
 
-📈 <h1 align="center">My Github Status 📊 </h1>
+<h1 align="center">My Github Status 📊 </h1>
 <br/>
 <p align="center" width="100%">
 <img width="48%" height="96%" alt="Mahesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />   
