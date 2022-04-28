@@ -82,20 +82,11 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <h2> Let's get connected: <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"> </h2>
 
-<p>
-    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
-            height="35px" /></a>
-    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
-            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
-            height="35px" /></a>
-    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-dribble-FFA116?style=for-the-badge&logo=dribble&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
-            height="35px" /></a>
-        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/behance-D14836?style=for-the-badge&logo=behance&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
-            height="35px" width = "130px"/></a>
-    
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-subhankar-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-subhankar-sarkar/" height="30" width="40" /></a>
+<a href="https://fb.com/subhankar sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhankar sarkar" height="30" width="40" /></a>
+<a href="https://instagram.com/subho0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subho0905" height="30" width="40" /></a>
+
 </p>
 
 
