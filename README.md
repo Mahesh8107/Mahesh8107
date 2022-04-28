@@ -7,6 +7,17 @@
 
 <br />
 
+## About Me
+
+* 🔭 I’m currently working on Fullstack Development.
+* 🌱 I’m currently learning MERN and DSA.
+* 👯 I’m looking to collaborate on **Open Source Projects**.
+* 🤔 I’m looking for help with developing web apps.
+* 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/RanjanPriya12)
+* 📫 How to reach me [priyaranjan16795@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox,"priyaranjan16795@gmail.com")
+- ⚡ Fun fact: **Don't stop until you are proud**.
+ <br>
+
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
