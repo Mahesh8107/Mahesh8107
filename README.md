@@ -91,13 +91,6 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 </p>
 
 
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/mahesh-jangid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 📈 <h1 align="center">My Github Status 📊 </h1>
 <br/>
 <p align="center" width="100%">
@@ -125,3 +118,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/mahesh-jangid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
