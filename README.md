@@ -11,17 +11,18 @@
 
 <br/>
 
-<p width="90%">An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.<br/>
+<p>An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.<br/>
 I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
 positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
 
 ## About Me
-* 🔭 I’m currently working on Fullstack Development.
-* 🌱 I’m currently learning MERN and DSA.
+* 🌍  I'm based in Jaipur, India
+* 🔭 I’m currently working on various React Applications.
+* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
 * 👨‍💻 All of my projects are available at [My Portfolio]
-* 📫 How to reach me
+* 📫 How to reach me maheshjangid7568@gmail.com
 - ⚡ Fun fact: **Don't stop until you are proud**.
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
@@ -34,32 +35,32 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        height="25px" />
+        height="25px" width="28px"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="Nodejs"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px" />
     <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="Express"
         src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-        height="25px" />   
+        height="25px"  width="28px"/>   
     <img alt="Material UI"
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="Web API FastAPI"
         src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="Markdown"
         src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
-        height="25px" />
+        height="25px"  width="28px"/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         height="25px" />
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
