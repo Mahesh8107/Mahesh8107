@@ -3,8 +3,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Professional+Coder"></a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid) -->
-![Visitor Count](https://profile-counter.glitch.me/Mahesh-jangid/count.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=Mahesh-jangid.Mahesh-jangid)
 
 
 
