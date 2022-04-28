@@ -69,7 +69,6 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
     <img alt="Markdown"
         src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
         height="25px" />
-  
     <img alt="Prettier"
         src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
         height="25px" />
