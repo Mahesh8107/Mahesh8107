@@ -11,8 +11,9 @@
 
 <br/>
 
-#### An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
-positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.
+### <p>An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
+positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
 
 ## About Me
 * 🔭 I’m currently working on Fullstack Development.
