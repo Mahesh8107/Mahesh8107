@@ -9,6 +9,13 @@
 
 <br />
 
+
+
+
+An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 ## About Me
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
@@ -19,11 +26,6 @@
 - ⚡ Fun fact: **Don't stop until you are proud**.
 
  <br>
-
-
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
