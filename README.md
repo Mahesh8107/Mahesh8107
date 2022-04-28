@@ -35,11 +35,11 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        height="25px" width="28px"/>
+        height="25px" width="70px"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        height="25px"  width="28px"/>
+        height="25px"  width="70px"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-        height="25px"  width="28px"/>
+        height="25px"  width="70px"/>
     <img alt="Nodejs"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         height="25px"  width="28px" />
