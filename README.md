@@ -24,6 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/RanjanPriya12)
 * 📫 How to reach me [priyaranjan16795@gmail.com]
 - ⚡ Fun fact: **Don't stop until you are proud**.
+- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
 
 
