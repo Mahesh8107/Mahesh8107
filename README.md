@@ -5,8 +5,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid)
 
-<img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="1000" height="520" />
 
+<div align="center">
+        <img align="center" alt="GIF" clear="both" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="1000" height="520" />
+        </div>
 
 <font size="1"> 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
