@@ -82,7 +82,22 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <h2> Let's get connected: <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"> </h2>
 
-<a href = 'https://shilpa17-shingnapure-portfolio.vercel.app/'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159184625-7c17e903-f6ee-4e07-98e8-07614c393408.png"/></a>&nbsp;     <a href = 'https://www.linkedin.com/in/shilpa-shingnapure'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159184626-60819a14-5d6b-4e38-a730-b9fceb72df65.svg"/></a>         &nbsp;<a href = 'https://www.github.com/shilpashingnapure'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159184628-cdccf231-ec4d-4ae4-bde7-5d8274f57146.svg"/></a>      &nbsp;<a href="https://codepen.io/shilpashingnapure/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69167064/159184599-39501947-c3c6-4ba3-8dd6-b7775d7150de.svg" alt="shilpashingnapure/" width="32px" /></a>      &nbsp;<a href="https://www.hackerrank.com/shingnapureshil1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69167064/159184600-79cc4cbe-e8b5-416f-bf82-5cf8b91dd9dd.svg" alt="shingnapureshil1/" width = '32px' /></a>     &nbsp;<a href="https://www.leetcode.com/shingnapure_shilpa17/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69167064/159185189-c6f3c53c-9a30-4503-8b9f-5953272e6a5c.png" alt="shingnapure_shilpa17/" width = '32px'/></a>     &nbsp;<a href="https://auth.geeksforgeeks.org/user/shingnapureshilpa2/profile/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/69167064/159185201-7a2e9d22-260b-42f0-b63c-f17b6a15e260.png" alt="shingnapureshilpa2/profile/" width = '32px' /></a>     &nbsp;<a href = 'https://cssbattle.dev/player/shilpa17'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159086421-721c547b-ff62-4744-913d-feda5bac605c.svg"/></a>  
+<p>
+    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
+            height="35px" /></a>
+    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
+            height="35px" /></a>
+    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
+            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
+            height="35px" /></a>
+        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/behance-D14836?style=for-the-badge&logo=behance&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+            height="35px" width = "130px"/></a>
+    
+</p>
+
 
 <!--END_SECTION:waka-->
 
