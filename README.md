@@ -3,7 +3,7 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Professional+Coder"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
+![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Mahesh-jangid)
 
 <br />
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
