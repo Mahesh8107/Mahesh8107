@@ -9,9 +9,10 @@
 
 <br />
 
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
  <br>
 ## About Me
+<p>
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
@@ -19,6 +20,8 @@
 * 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/RanjanPriya12)
 * 📫 How to reach me [priyaranjan16795@gmail.com]
 - ⚡ Fun fact: **Don't stop until you are proud**.
+</p>
+
  <br>
 
 
