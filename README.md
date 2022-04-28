@@ -18,7 +18,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ## About Me
  <img align="right" alt="GIF" clear="left" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br />
 <p>
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
