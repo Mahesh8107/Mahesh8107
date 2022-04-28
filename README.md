@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/RanjanPriya12)
 * 📫 How to reach me [priyaranjan16795@gmail.com]
 - ⚡ Fun fact: **Don't stop until you are proud**.
-
+<br />
 
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
