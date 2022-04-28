@@ -11,7 +11,6 @@
 
 
 ## About Me
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="530">
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
