@@ -120,7 +120,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"><a href="#"><img alt="Mahesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahesh-jangid&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"><a href="#"><img alt="Mahesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahesh-jangid&bg_color=0D1117&color=FFFFFF&line=0000FF&point=FFFFFF&hide_border=false&" /></a></p>
 </details >
 <br>
 
