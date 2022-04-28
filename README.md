@@ -100,7 +100,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> 
+<p> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&theme=github_dark&show_icons=true&include_all_commits=true" />
         <img height= "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" />
  </p>
