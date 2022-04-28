@@ -19,6 +19,7 @@
 * 📫 How to reach me [priyaranjan16795@gmail.com]
 - ⚡ Fun fact: **Don't stop until you are proud**.
  <br>
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
