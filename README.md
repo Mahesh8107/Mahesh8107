@@ -38,7 +38,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         height="25px" />
         <img alt="saas"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=saas&logoColor=F7DF1E"
+        src="https://img.shields.io/badge/Saas-323330?style=for-the-badge&logo=saas&logoColor=F7DF1E"
         height="25px" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         height="25px" />
