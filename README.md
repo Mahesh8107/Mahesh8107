@@ -1,5 +1,5 @@
 ### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am Mahesh Jangid!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Professional+Coder"></a>
 
@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 ## About Me
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
