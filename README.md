@@ -97,13 +97,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-
-📈 my github stats
-
-<h1 align="center">My Github Status 📊 </h1>
+📈 <h1 align="center">My Github Status 📊 </h1>
 <br/>
 <p align="center" width="100%">
-<img width="48%" alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />   
+<img width="48%" alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />   
 <img width="48%" alt="Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
   <br/>
