@@ -1,11 +1,11 @@
-### Hi there ! <img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width = 30px> I am Mahesh Jangid!
+### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am Mahesh Jangid!
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Professional+Coder"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid)
 
-<img align="right" alt="GIF" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="1000" height="520" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif   " width="1000" height="520" />
 
 <!-- https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif -->
 
