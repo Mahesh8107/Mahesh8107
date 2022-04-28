@@ -30,7 +30,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <img align="right" alt="GIF" clear="both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
  
 <br />
-## 🛠️ Technologies and Tools I use:
+
+### 🛠️ Technologies and Tools I use:
 <p>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
