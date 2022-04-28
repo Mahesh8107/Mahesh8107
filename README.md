@@ -116,7 +116,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-jangid&theme=github_dark" alt="mahesh-jangid"" /></p>
+<p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-jangid&theme=chartreuse-dark" alt="mahesh-jangid"" /></p>
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
