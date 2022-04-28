@@ -100,11 +100,30 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&theme=react&layout=compact" />
- </p>
-
-
+<h1 align="center">My Github Status 📊 </h1>
+<br/>
+<p align="center" width="100%">
+<img width="48%" alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />   
+<img width="48%" alt="Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+ <br><br>
+ 
+ <h1>ℹ️ &nbsp;Github Info</h1>
+<details>	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-jangid&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
+</details>
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-jangid&theme=dark" alt="RanjanPriya12" /></p>
+</details>
+<details>
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"><a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahesh-jangid&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+</details >
+<br>
 
 
