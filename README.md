@@ -16,11 +16,6 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
-<br />
-
-
 ## About Me
 * 🔭 I’m currently working on Fullstack Development.
 * 🌱 I’m currently learning MERN and DSA.
@@ -32,6 +27,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
+<br />
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
