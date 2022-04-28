@@ -3,7 +3,9 @@
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Professional+Coder"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid) -->
+![Visitor Count](https://profile-counter.glitch.me/Mahesh-jangid/count.svg)
+
 
 
 
@@ -25,7 +27,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 * 📫 How to reach me maheshjangid7568@gmail.com
 - ⚡ Fun fact: **Don't stop until you are proud**.
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
-✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maheshjangid7568@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear="both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
  
@@ -94,14 +96,14 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/mahesh-jangid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 <h1 align="center">My Github Status 📊 </h1>
 <br/>
 <p align="center" width="100%">
-<img width="48%" height="56%" alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />   
-<img width="48%" alt="Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=false&bg_color=0D1117" />
+<img width="48%" height="56%" alt="Mahesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahesh-jangid&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />   
+<img width="48%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=false&bg_color=0D1117" />
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -111,15 +113,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  <h1>ℹ️ &nbsp;Github Info</h1>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-jangid&theme=github_dark" alt="RanjanPriya12" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-jangid&theme=github_dark" alt="mahesh-jangid" align = "center"/></p>
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-jangid&theme=dark" alt="RanjanPriya12" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-jangid&theme=dark" alt="mahesh-jangid"" /></p>
 </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"><a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahesh-jangid&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"><a href="#"><img alt="Mahesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahesh-jangid&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details >
 <br>
 
