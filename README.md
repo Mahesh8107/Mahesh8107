@@ -98,7 +98,6 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <img width="48%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-jangid&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
 </p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
  <br><br>
  
