@@ -5,9 +5,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=.Mahesh-jangid)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif   " width="1000" height="520" />
+<img align="right" alt="GIF" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="1000" height="520" />
 
-<!-- https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif -->
 
 <br />
 
