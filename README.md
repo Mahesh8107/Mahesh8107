@@ -112,7 +112,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  <h1>ℹ️ &nbsp;Github Info</h1>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-jangid&theme=github_dark" alt="mahesh-jangid" align = "center"/></p>
+<p align="center"><img height="180em" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahesh-jangid&theme=github_dark" alt="mahesh-jangid" align = "center"/></p>
 </details>
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
