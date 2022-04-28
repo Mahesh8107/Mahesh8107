@@ -25,7 +25,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 * 👨‍💻 All of my projects are available at [My Portfolio]
 * 📫 How to reach me maheshjangid7568@gmail.com
 - ⚡ Fun fact: **Don't stop until you are proud**.
-- - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
+- - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in//)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maheshjangid7568@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear="both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
@@ -83,12 +83,12 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 
 <h2> Let's get connected: <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"> </h2>
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-subhankar-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-subhankar-sarkar/" height="30" width="40" /></a>
 <a href="https://fb.com/subhankar sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhankar sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/subho0905" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qhnlwVF2ns51pijkGwHg59UFvHCyx0cLNQ&usqp=CAU" alt="subho0905" height="30" width="40" color="red"/></a>
 
-</p>
+</p> -->
 
 
 <h1 align="center">My Github Status 📊 </h1>
