@@ -1,6 +1,6 @@
 ### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am Mahesh Jangid!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Proffessional+Coder)](https://git.io/typing-svg)
+<a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Web+Developer;A+Proffessional+Coder)](https://git.io/typing-svg)"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
 
