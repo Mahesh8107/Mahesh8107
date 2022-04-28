@@ -78,6 +78,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
         height="25px" />
 </p>
+<br/>
 
 <h2> Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"> </h2>
 
