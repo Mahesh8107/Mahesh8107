@@ -84,9 +84,10 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <h2> Let's get connected: <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"> </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mahesh-jangid-a23479233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-subhankar-sarkar/" height="30" width="40" /></a>
-<a href="https://github.com/mahesh-jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="subhankar sarkar" height="30" width="40" /></a>
-<a href="https://in.pinterest.com/Mahi7568/_saved/" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="prachisinghsherawat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahesh-jangid-a23479233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh" height="30" width="40" /></a>
+<a href="https://github.com/mahesh-jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mahesh" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/Mahi7568/_saved/" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="mahesh" height="30" width="40" /></a>
+ <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maheshjangid7568@gmail.com.com&su=SUBJECT&body=BODY&tf=1)" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mahesh" height="30" width="40" /></a>       
 
 </p>
 
