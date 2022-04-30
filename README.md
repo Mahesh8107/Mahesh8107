@@ -86,7 +86,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-subhankar-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-subhankar-sarkar/" height="30" width="40" /></a>
 <a href="https://fb.com/subhankar sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhankar sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/subho0905" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qhnlwVF2ns51pijkGwHg59UFvHCyx0cLNQ&usqp=CAU" alt="subho0905" height="30" width="40" color="red"/></a>
+<a href="https://instagram.com/prachisinghsherawat" target="blank"><img align="center"  margin-left ="400px"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prachisinghsherawat" height="50" width="80" /></a>
 
 </p>
 
