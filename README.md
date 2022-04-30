@@ -1,5 +1,5 @@
 ### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am Mahesh Jangid!
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Developer;A+Professional+Coder"></a>
 
@@ -16,6 +16,8 @@
 I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and 
 positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
 
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## About Me
 * 🌍  I'm based in Jaipur, India
 * 🔭 I’m currently working on various React Applications.
