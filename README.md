@@ -17,7 +17,7 @@ I am a social person who loves to take up new challenges and learn new skills. I
 positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 ## About Me
 * 🌍  I'm based in Jaipur, India
 * 🔭 I’m currently working on various React Applications.
